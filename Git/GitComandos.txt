@@ -1,5 +1,6 @@
 Documentação
 GitComandos
+git init
 git config -global user.name "ghkizk"
 git config -global user.email isacbryan616@gmail.com
 git add .
