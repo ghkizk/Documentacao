@@ -1,6 +1,8 @@
 Documentação
 GitComandos
-git init
-git config
+git config -global user.name "ghkizk"
+git config -global user.email isacbryan616@gmail.com
 git add .
-git commit -m "primeiro commit"
+git commit -m "mensagem de commit"
+git add remote origin <https://github.com/ghkizk/Documentacao>
+git push origin main
